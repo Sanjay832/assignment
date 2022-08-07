@@ -1,0 +1,26 @@
+
+#select{
+
+}
+
+#filter{
+    width: 15%;
+    height: 500px;
+    margin-right: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: large;
+    font font-weight:bold ;
+}
+
+#select{
+    margin-left: 300px;
+    width:1400px;
+    height: 100%;
+    margin-top: -393px;
+    text-align: center;
+}
+#searc{
+    height: 30px;
+    margin-top: 5px;
+}
